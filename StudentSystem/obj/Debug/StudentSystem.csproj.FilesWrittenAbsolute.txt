@@ -1,8 +1,0 @@
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/obj/Debug/StudentSystem.Form1.resources
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/obj/Debug/StudentSystem.Properties.Resources.resources
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/bin/Debug/StudentSystem.exe.config
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/bin/Debug/StudentSystem.exe.mdb
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/bin/Debug/StudentSystem.exe
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/obj/Debug/StudentSystem.exe
-/Users/amgadabukwider/Documents/Source/_git/StudentsSystems/StudentSystem/obj/Debug/StudentSystem.exe.mdb
